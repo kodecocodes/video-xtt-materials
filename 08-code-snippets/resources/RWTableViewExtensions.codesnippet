@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>// MARK:- Data Source
+extension &lt;#viewController#&gt;: UITableViewDataSource {
+  
+  func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -&gt; UITableViewCell {
+    let cell = tableView.dequeueReusableCell(withIdentifier: &lt;#identifier#&gt;, for: indexPath)
+    return cell
+  }
+  
+  func numberOfSections(in tableView: UITableView) -&gt; Int {
+    let warningError = "Return number of sections"
+    return 1
+  }
+  
+  func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -&gt; Int {
+    return &lt;#numberOfRows#&gt;
+  }
+}
+
+// MARK:- Table View Delegate
+extension &lt;#viewController#&gt;: UITableViewDelegate {
+  func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+  }
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>1964E217-9EDE-46D2-AB75-4F3900CA6AC2</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>DataSource and Delegate methods for UITableView</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RWTableViewExtensions</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

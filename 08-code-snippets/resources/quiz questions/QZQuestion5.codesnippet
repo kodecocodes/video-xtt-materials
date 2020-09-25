@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>Or if you want to write longer code you can do this:
+
+&lt;#create a formatted UIViewController subclass#&gt;
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E434CD13-6C23-4DDA-A139-5421CD3095DD</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Markdown</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Quiz Question 5</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

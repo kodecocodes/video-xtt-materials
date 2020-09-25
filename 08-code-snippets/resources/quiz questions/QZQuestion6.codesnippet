@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;#Display an image#&gt;
+
+Use for example http://www.google.com/images/errors/robot.png. This image won't render in the document, but if you use an external markdown editor such as MacDown (https://macdown.uranusjr.com), it will render in a preview.
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>88EFD6D1-29EC-4FB6-8FA5-5F25F4285615</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Generic</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Quiz Question 6</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

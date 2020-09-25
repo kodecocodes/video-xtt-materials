@@ -1,0 +1,48 @@
+
+/* Class = "UINavigationItem"; title = "Sections"; ObjectID = "57d-yn-m1E"; */
+"57d-yn-m1E.title" = "Sections";
+
+/* Class = "UITextField"; placeholder = "Enter Keyboard Shortcut"; ObjectID = "6rm-3o-uZu"; */
+"6rm-3o-uZu.placeholder" = "Enter Keyboard Shortcut";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "83t-lg-j9a"; */
+"83t-lg-j9a.text" = "Detail";
+
+/* Class = "UILabel"; text = "Delete Shortcut"; ObjectID = "KrP-w8-acd"; */
+"KrP-w8-acd.text" = "Delete Shortcut";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "R4o-1f-VG1"; */
+"R4o-1f-VG1.text" = "Title";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "T1c-Nx-gSm"; */
+"T1c-Nx-gSm.title" = " ";
+
+/* Class = "UIButton"; normalTitle = "Option\n⌥"; ObjectID = "Th5-VF-na5"; */
+"Th5-VF-na5.normalTitle" = "Option\n⌥";
+
+/* Class = "UIButton"; normalTitle = "Control\n⌃"; ObjectID = "UDP-9j-9Uf"; */
+"UDP-9j-9Uf.normalTitle" = "Control\n⌃";
+
+/* Class = "UITableViewSection"; headerTitle = "Description"; ObjectID = "WZt-2I-QuZ"; */
+"WZt-2I-QuZ.headerTitle" = "Description";
+
+/* Class = "UITableViewSection"; headerTitle = "Section"; ObjectID = "Wit-29-xoG"; */
+"Wit-29-xoG.headerTitle" = "Section";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Xcg-mJ-s5P"; */
+"Xcg-mJ-s5P.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Shift\n⇧"; ObjectID = "ZKv-mh-Wtx"; */
+"ZKv-mh-Wtx.normalTitle" = "Shift\n⇧";
+
+/* Class = "UITableViewSection"; headerTitle = "Keyboard Shortcut"; ObjectID = "ZeP-wD-FWV"; */
+"ZeP-wD-FWV.headerTitle" = "Keyboard Shortcut";
+
+/* Class = "UINavigationItem"; title = "Shortcut"; ObjectID = "dkV-rT-Nz0"; */
+"dkV-rT-Nz0.title" = "Shortcut";
+
+/* Class = "UIButton"; normalTitle = "Command\n⌘"; ObjectID = "glq-es-wWN"; */
+"glq-es-wWN.normalTitle" = "Command\n⌘";
+
+/* Class = "UITextField"; placeholder = "Enter Section Name"; ObjectID = "zsL-J6-h8R"; */
+"zsL-J6-h8R.placeholder" = "Enter Section Name";

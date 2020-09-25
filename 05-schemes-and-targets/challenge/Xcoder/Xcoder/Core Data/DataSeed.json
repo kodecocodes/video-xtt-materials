@@ -1,0 +1,272 @@
+{
+  "sections":
+  [
+   {
+   "name": "Viewing",
+   "shortcuts": [{
+                 "keyboardShortcut": "Cmd return",
+                 "shortcutDescription": "Show Standard Editor",
+                 },
+                 {
+                 "keyboardShortcut": "Opt Cmd return",
+                 "shortcutDescription": "Show Assistant Editor",
+                 },
+                 {
+                 "keyboardShortcut": "Shift Cmd Y",
+                 "shortcutDescription": "Show / Hide Debug Area",
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl Cmd F",
+                 "shortcutDescription": "Enter / Exit Full Screen",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd H",
+                 "shortcutDescription": "Hide Xcode",
+                 "filter": 2
+                 }
+                 ]
+   },
+   {
+   "name": "Navigators",
+   "shortcuts": [{
+                 "keyboardShortcut": "Ctrl 1",
+                 "shortcutDescription": "Show Related Items",
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl 6",
+                 "shortcutDescription": "Show Document Items",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd 0",
+                 "shortcutDescription": "Show/Hide Navigators",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd 1",
+                 "shortcutDescription": "Show Project Navigator",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd 4",
+                 "shortcutDescription": "Show Find Navigator",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd 8",
+                 "shortcutDescription": "Show Breakpoint Navigator",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl Opt Cmd 2",
+                 "shortcutDescription": "Show Code Snippets",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl Opt Cmd 4",
+                 "shortcutDescription": "Show Media Library",
+                 "filter": 2
+                 }
+                 ]
+   },
+   {
+   "name": "Utilities",
+   "shortcuts": [{
+                 "keyboardShortcut": "Opt Cmd 1",
+                 "shortcutDescription": "Show Attributes Inspector",
+                 },
+                 {
+                 "keyboardShortcut": "Opt Cmd 0",
+                 "shortcutDescription": "Show / Hide Utilities",
+                 }
+                 ]
+   },
+   {
+   "name": "Search",
+   "shortcuts": [
+                 {
+                 "keyboardShortcut": "Shift Cmd F",
+                 "shortcutDescription": "Find in Project",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd E",
+                 "shortcutDescription": "Use Selection for Find",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd F",
+                 "shortcutDescription": "Find in File",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd G",
+                 "shortcutDescription": "Find Next",
+                 "filter": 2
+                 },
+                 ]
+   },
+   {
+   "name": "Product Menu",
+   "shortcuts": [{
+                 "keyboardShortcut": "Cmd R",
+                 "shortcutDescription": "Run Application",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd B",
+                 "shortcutDescription": "Build Application",
+                 },
+                 {
+                 "keyboardShortcut": "Shift Cmd K",
+                 "shortcutDescription": "Clean Build",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd .",
+                 "shortcutDescription": "Stop",
+                 }
+                 
+                 ]
+   },
+   {
+   "name": "Navigation",
+   "shortcuts": [{
+                 "keyboardShortcut": "Shift Cmd J",
+                 "shortcutDescription": "Reveal in Project Navigator",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd J",
+                 "shortcutDescription": "Move focus to editor",
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl Cmd ⬅︎",
+                 "shortcutDescription": "Go Back (File)",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl Cmd J",
+                 "shortcutDescription": "Jump to Definition",
+                 "filter": 2
+                 }
+                 ]
+   },
+   {
+   "name": "Editor Menu",
+   "shortcuts": [{
+                 "keyboardShortcut": "Ctrl Cmd E",
+                 "shortcutDescription": "Edit all in Scope",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Shift Cmd A",
+                 "shortcutDescription": "Show Actions Menu (Refactor)",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl I",
+                 "shortcutDescription": "Reindent Selection",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd ]",
+                 "shortcutDescription": "Indent Right",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Opt Cmd /",
+                 "shortcutDescription": "Method documentation",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd /",
+                 "shortcutDescription": "Toggle Comments",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd +/-",
+                 "shortcutDescription": "Increase / Decrease Font Size",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl Cmd 0",
+                 "shortcutDescription": "Reset zoom",
+                 "filter": 2
+                 }
+                 ]
+   },
+   {
+   "name": "Debug Menu",
+   "shortcuts": [{
+                 "keyboardShortcut": "Ctrl Cmd Y",
+                 "shortcutDescription": "Debug Stop / Continue",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd \\",
+                 "shortcutDescription": "Add / delete breakpoint",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "F6",
+                 "shortcutDescription": "Step Over",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "F7",
+                 "shortcutDescription": "Step Into",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "F8",
+                 "shortcutDescription": "Step Out",
+                 "filter": 2
+                 }
+                 ]
+   },
+   {
+   "name": "File Menu",
+   "shortcuts": [{
+                 "keyboardShortcut": "Cmd O",
+                 "shortcutDescription": "Open File",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Shift Cmd O",
+                 "shortcutDescription": "Open Quickly",
+                 },
+                 {
+                 "keyboardShortcut": "Cmd S",
+                 "shortcutDescription": "Save File",
+                 "filter": 2
+                 }
+                 ]
+   },
+   {
+   "name": "Simulator",
+   "shortcuts": [{
+                 "keyboardShortcut": "Cmd S",
+                 "shortcutDescription": "New Screen Shot",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Shift Cmd H",
+                 "shortcutDescription": "Home",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd ⬅︎",
+                 "shortcutDescription": "Rotate Left",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Ctrl Cmd Z",
+                 "shortcutDescription": "Shake",
+                 "filter": 2
+                 },
+                 {
+                 "keyboardShortcut": "Cmd K",
+                 "shortcutDescription": "Toggle Keyboard",
+                 "filter": 2
+                 }
+                 ]
+   }
+   
+   ]
+}
+

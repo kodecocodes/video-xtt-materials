@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>let documentDirectoryURL = try! FileManager.default.url(
+  for: .documentDirectory,
+  in: .userDomainMask,
+  appropriateFor: nil,
+  create: false
+)
+print(documentDirectoryURL)
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>D83958A7-FB3E-42EA-9EE3-6A6BD312B02F</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Swift</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>retrieves and prints document directory URL</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>RWdocumentDirectoryURL</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
